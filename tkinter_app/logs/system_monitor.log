@@ -1,0 +1,721 @@
+2025-07-07 10:50:18,237 - src.app_controller - INFO - Application controller initialized
+2025-07-07 10:50:18,243 - src.api_client - ERROR - API request failed: 404 Client Error: Not Found for url: http://localhost:8000/api/v1/health
+2025-07-07 11:08:21,143 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:08:21,516 - root - ERROR - Application error: 'MainWindow' object has no attribute 'timer_label'
+2025-07-07 11:09:26,805 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:12:06,739 - src.app_controller - INFO - Shutting down application...
+2025-07-07 11:12:06,741 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 11:12:06,741 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 11:12:06,741 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:12:06,741 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:12:06,741 - src.app_controller - INFO - User logged out successfully
+2025-07-07 11:12:06,741 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 11:12:06,741 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 11:12:06,741 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 11:13:56,630 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:14:16,779 - src.app_controller - INFO - Shutting down application...
+2025-07-07 11:14:16,780 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 11:14:16,780 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 11:14:16,780 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:14:16,781 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:14:16,781 - src.app_controller - INFO - User logged out successfully
+2025-07-07 11:14:16,781 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 11:14:16,781 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 11:14:16,781 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 11:14:19,696 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:19:24,840 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:19:57,721 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:24:29,310 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:24:41,117 - src.app_controller - INFO - Shutting down application...
+2025-07-07 11:24:41,118 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 11:24:41,118 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 11:24:41,118 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:24:41,118 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:24:41,118 - src.app_controller - INFO - User logged out successfully
+2025-07-07 11:24:41,119 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 11:24:41,119 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 11:24:41,119 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 11:26:16,082 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:26:24,964 - src.app_controller - INFO - Shutting down application...
+2025-07-07 11:26:24,966 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 11:26:24,966 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 11:26:24,966 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:26:24,966 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:26:24,966 - src.app_controller - INFO - User logged out successfully
+2025-07-07 11:26:24,966 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 11:26:24,966 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 11:26:24,966 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 11:27:16,688 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:27:23,340 - src.app_controller - INFO - Shutting down application...
+2025-07-07 11:27:23,341 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 11:27:23,341 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 11:27:23,341 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:27:23,341 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:27:23,341 - src.app_controller - INFO - User logged out successfully
+2025-07-07 11:27:23,341 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 11:27:23,341 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 11:27:23,341 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 11:28:21,796 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:28:21,971 - src.ui.main_window - INFO - Login page created with 8 widgets
+2025-07-07 11:28:21,971 - src.ui.main_window - INFO - Main frame geometry: 760x560+20+20
+2025-07-07 11:28:21,971 - src.ui.main_window - INFO - Root geometry: 800x600+335+178
+2025-07-07 11:32:45,356 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:34:41,778 - src.app_controller - INFO - Shutting down application...
+2025-07-07 11:34:41,780 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 11:34:41,780 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 11:34:41,780 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:34:41,780 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:34:41,780 - src.app_controller - INFO - User logged out successfully
+2025-07-07 11:34:41,780 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 11:34:41,780 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 11:34:41,780 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 11:34:41,800 - root - ERROR - Application error: can't invoke "focus" command:  application has been destroyed
+2025-07-07 11:34:44,877 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:34:49,247 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 11:34:49,248 - src.ui.main_window - INFO - Username: '', Password length: 0
+2025-07-07 11:34:49,248 - src.ui.main_window - WARNING - Username or password is empty
+2025-07-07 11:34:55,455 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 11:34:55,455 - src.ui.main_window - INFO - Username: '', Password length: 0
+2025-07-07 11:34:55,455 - src.ui.main_window - WARNING - Username or password is empty
+2025-07-07 11:35:03,078 - src.app_controller - INFO - Shutting down application...
+2025-07-07 11:35:03,078 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 11:35:03,078 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 11:35:03,078 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:35:03,078 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:35:03,078 - src.app_controller - INFO - User logged out successfully
+2025-07-07 11:35:03,078 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 11:35:03,078 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 11:35:03,079 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 11:35:03,097 - root - ERROR - Application error: can't invoke "focus" command:  application has been destroyed
+2025-07-07 11:36:15,607 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:36:15,735 - src.ui.main_window - INFO - Entry widgets created: username=.!frame.!entry, password=.!frame.!entry2
+2025-07-07 11:36:15,735 - src.ui.main_window - INFO - Test get from entries: username='test_user', password='test_pass'
+2025-07-07 11:36:18,846 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 11:36:18,846 - src.ui.main_window - INFO - Username: 'test_user', Password length: 9
+2025-07-07 11:36:24,723 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 11:36:24,723 - src.ui.main_window - INFO - Username: 'test_user', Password length: 9
+2025-07-07 11:36:26,851 - src.app_controller - INFO - Shutting down application...
+2025-07-07 11:36:26,851 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 11:36:26,851 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 11:36:26,851 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:36:26,851 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:36:26,851 - src.app_controller - INFO - User logged out successfully
+2025-07-07 11:36:26,851 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 11:36:26,851 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 11:36:26,851 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 11:36:26,879 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 11:36:26,879 - src.ui.main_window - INFO - Login thread started for user: test_user
+2025-07-07 11:36:26,879 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 11:36:26,880 - src.ui.main_window - INFO - Login thread started for user: test_user
+2025-07-07 11:36:26,880 - root - ERROR - Application error: can't invoke "focus" command:  application has been destroyed
+2025-07-07 11:38:38,499 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:38:38,649 - src.ui.main_window - INFO - Entry widgets created with placeholders
+2025-07-07 11:38:44,255 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 11:38:44,255 - src.ui.main_window - INFO - Username: '', Password length: 0
+2025-07-07 11:38:44,255 - src.ui.main_window - WARNING - Username or password is empty
+2025-07-07 11:38:46,698 - src.app_controller - INFO - Shutting down application...
+2025-07-07 11:38:46,698 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 11:38:46,698 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 11:38:46,698 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:38:46,698 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:38:46,698 - src.app_controller - INFO - User logged out successfully
+2025-07-07 11:38:46,698 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 11:38:46,698 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 11:38:46,698 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 11:38:46,728 - root - ERROR - Application error: can't invoke "focus" command:  application has been destroyed
+2025-07-07 11:40:49,815 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:40:49,958 - src.ui.main_window - INFO - Entry widgets created and should be visible
+2025-07-07 11:40:49,984 - src.ui.main_window - INFO - Login page created with pack layout
+2025-07-07 11:40:49,985 - src.ui.main_window - INFO - Entry widgets should be visible now
+2025-07-07 11:41:51,688 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:41:51,822 - src.ui.main_window - INFO - Entry widgets created and should be visible
+2025-07-07 11:41:51,851 - src.ui.main_window - INFO - Login page created with pack layout
+2025-07-07 11:41:51,851 - src.ui.main_window - INFO - Entry widgets should be visible now
+2025-07-07 11:41:56,851 - src.app_controller - INFO - Shutting down application...
+2025-07-07 11:41:56,851 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 11:41:56,852 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 11:41:56,852 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:41:56,852 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:41:56,852 - src.app_controller - INFO - User logged out successfully
+2025-07-07 11:41:56,852 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 11:41:56,852 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 11:41:56,852 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 11:43:12,899 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:43:13,036 - src.ui.main_window - INFO - Entry widgets created in red frames
+2025-07-07 11:43:13,036 - src.ui.main_window - INFO - Username entry geometry: 212x28+13+34
+2025-07-07 11:43:13,036 - src.ui.main_window - INFO - Password entry geometry: 212x28+13+34
+2025-07-07 11:43:13,036 - src.ui.main_window - INFO - Username entry config: bg=white, fg=black
+2025-07-07 11:47:08,481 - src.app_controller - INFO - Shutting down application...
+2025-07-07 11:47:08,485 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 11:47:08,485 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 11:47:08,485 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:47:08,485 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:47:08,485 - src.app_controller - INFO - User logged out successfully
+2025-07-07 11:47:08,486 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 11:47:08,486 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 11:47:08,486 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 11:47:08,516 - root - ERROR - Application error: can't invoke "focus" command:  application has been destroyed
+2025-07-07 11:47:09,735 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:47:10,174 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 11:48:36,847 - src.app_controller - INFO - Shutting down application...
+2025-07-07 11:48:36,847 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 11:48:36,847 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 11:48:36,848 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:48:36,848 - src.app_controller - INFO - Background sync stopped
+2025-07-07 11:48:36,848 - src.app_controller - INFO - User logged out successfully
+2025-07-07 11:48:36,848 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 11:48:36,848 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 11:48:36,848 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 11:48:40,164 - src.app_controller - INFO - Application controller initialized
+2025-07-07 11:48:40,309 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 12:21:13,558 - src.app_controller - INFO - Application controller initialized
+2025-07-07 12:21:17,403 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 12:21:17,403 - src.ui.main_window - INFO - Username: '', Password length: 0
+2025-07-07 12:21:17,403 - src.ui.main_window - WARNING - Username or password is empty
+2025-07-07 12:37:13,405 - src.app_controller - INFO - Application controller initialized
+2025-07-07 12:37:13,551 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 12:40:17,470 - src.app_controller - INFO - Shutting down application...
+2025-07-07 12:40:17,471 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 12:40:17,471 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 12:40:17,471 - src.app_controller - INFO - Background sync stopped
+2025-07-07 12:40:17,471 - src.app_controller - INFO - Background sync stopped
+2025-07-07 12:40:17,471 - src.app_controller - INFO - User logged out successfully
+2025-07-07 12:40:17,471 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 12:40:17,471 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 12:40:17,471 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 12:40:21,657 - src.app_controller - INFO - Application controller initialized
+2025-07-07 12:40:21,827 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 12:40:30,141 - src.app_controller - INFO - Shutting down application...
+2025-07-07 12:40:30,142 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 12:40:30,142 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 12:40:30,142 - src.app_controller - INFO - Background sync stopped
+2025-07-07 12:40:30,142 - src.app_controller - INFO - Background sync stopped
+2025-07-07 12:40:30,142 - src.app_controller - INFO - User logged out successfully
+2025-07-07 12:40:30,143 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 12:40:30,143 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 12:40:30,143 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 12:44:21,318 - src.app_controller - INFO - Application controller initialized
+2025-07-07 12:46:26,349 - src.app_controller - INFO - Shutting down application...
+2025-07-07 12:46:26,349 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 12:46:26,349 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 12:46:26,350 - src.app_controller - INFO - Background sync stopped
+2025-07-07 12:46:26,350 - src.app_controller - INFO - Background sync stopped
+2025-07-07 12:46:26,350 - src.app_controller - INFO - User logged out successfully
+2025-07-07 12:46:26,350 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 12:46:26,350 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 12:46:26,350 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 13:26:14,660 - src.app_controller - INFO - Application controller initialized
+2025-07-07 13:26:14,793 - root - ERROR - Application error: name 'form_frame' is not defined
+2025-07-07 13:26:23,684 - src.app_controller - INFO - Application controller initialized
+2025-07-07 13:26:23,783 - root - ERROR - Application error: name 'form_frame' is not defined
+2025-07-07 13:29:20,464 - src.app_controller - INFO - Application controller initialized
+2025-07-07 13:29:20,579 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 13:30:34,049 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 13:30:34,050 - src.ui.main_window - INFO - Username: 'newtestuser', Password length: 11
+2025-07-07 13:30:34,057 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 13:30:34,059 - src.ui.main_window - INFO - Login thread started for user: newtestuser
+2025-07-07 13:30:34,115 - src.api_client - ERROR - API request failed: 404 Client Error: Not Found for url: http://localhost:8000/api/v1/health
+2025-07-07 13:30:34,116 - src.app_controller - WARNING - API connection failed, attempting offline login
+2025-07-07 13:30:34,154 - src.auth - INFO - Credentials stored for user: newtestuser
+2025-07-07 13:30:34,159 - src.auth - INFO - User logged in: newtestuser
+2025-07-07 13:30:34,159 - src.ui.main_window - INFO - Login result: True
+2025-07-07 13:30:34,159 - src.ui.main_window - INFO - Login result handler called: success=True, error=None
+2025-07-07 13:30:34,159 - src.ui.main_window - INFO - Login successful, showing main page in 1 second
+2025-07-07 13:30:35,163 - src.api_client - ERROR - API request failed: 404 Client Error: Not Found for url: http://localhost:8000/api/v1/projects/?page=1&limit=50
+2025-07-07 13:30:35,163 - src.app_controller - ERROR - Error getting projects: API request failed: 404 Client Error: Not Found for url: http://localhost:8000/api/v1/projects/?page=1&limit=50
+2025-07-07 13:35:21,262 - src.app_controller - INFO - Background sync stopped
+2025-07-07 13:35:21,263 - src.auth - INFO - User logged out: newtestuser
+2025-07-07 13:35:21,263 - src.app_controller - INFO - User logged out successfully
+2025-07-07 13:35:21,278 - src.ui.main_window - ERROR - Error setting up stored credentials: cannot use geometry manager grid inside .!frame3 which already has slaves managed by pack
+2025-07-07 13:35:21,280 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 14:05:44,576 - src.app_controller - INFO - Shutting down application...
+2025-07-07 14:05:44,577 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 14:05:44,577 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 14:05:44,577 - src.app_controller - INFO - Background sync stopped
+2025-07-07 14:05:44,577 - src.app_controller - INFO - Background sync stopped
+2025-07-07 14:05:44,577 - src.app_controller - INFO - User logged out successfully
+2025-07-07 14:05:44,578 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 14:05:44,578 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 14:05:44,578 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 14:05:49,504 - src.app_controller - INFO - Application controller initialized
+2025-07-07 14:05:49,632 - src.ui.main_window - ERROR - Error setting up stored credentials: cannot use geometry manager grid inside .!frame which already has slaves managed by pack
+2025-07-07 14:05:49,634 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 14:06:49,930 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 14:06:49,931 - src.ui.main_window - INFO - Username: 'newtestuser', Password length: 11
+2025-07-07 14:06:49,938 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 14:06:49,939 - src.ui.main_window - INFO - Login thread started for user: newtestuser
+2025-07-07 14:06:49,952 - src.api_client - ERROR - API request failed: 404 Client Error: Not Found for url: http://localhost:8000/api/v1/health
+2025-07-07 14:06:49,952 - src.app_controller - WARNING - API connection failed, attempting offline login
+2025-07-07 14:06:49,972 - src.auth - INFO - Credentials stored for user: newtestuser
+2025-07-07 14:06:49,974 - src.auth - INFO - User logged in: newtestuser
+2025-07-07 14:06:49,974 - src.ui.main_window - INFO - Login result: True
+2025-07-07 14:06:50,043 - src.ui.main_window - INFO - Login result handler called: success=True, error=None
+2025-07-07 14:06:50,043 - src.ui.main_window - INFO - Login successful, showing main page in 1 second
+2025-07-07 14:06:51,047 - src.api_client - ERROR - API request failed: 404 Client Error: Not Found for url: http://localhost:8000/api/v1/projects/?page=1&limit=50
+2025-07-07 14:06:51,047 - src.app_controller - ERROR - Error getting projects: API request failed: 404 Client Error: Not Found for url: http://localhost:8000/api/v1/projects/?page=1&limit=50
+2025-07-07 14:25:53,032 - src.app_controller - INFO - Application controller initialized
+2025-07-07 14:25:53,037 - src.api_client - ERROR - API request failed: 404 Client Error: Not Found for url: http://localhost:8000/api/v1/health
+2025-07-07 14:29:42,882 - src.screenshot_manager - ERROR - Failed to capture screenshot: cannot write mode RGBA as JPEG
+2025-07-07 14:47:28,791 - src.app_controller - INFO - Background sync stopped
+2025-07-07 14:47:28,791 - src.auth - INFO - User logged out: newtestuser
+2025-07-07 14:47:28,792 - src.app_controller - INFO - User logged out successfully
+2025-07-07 14:47:28,807 - src.ui.main_window - ERROR - Error setting up stored credentials: cannot use geometry manager grid inside .!frame3 which already has slaves managed by pack
+2025-07-07 14:47:28,808 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 14:47:41,198 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 14:47:41,198 - src.ui.main_window - INFO - Username: 'shubham	password', Password length: 0
+2025-07-07 14:47:41,199 - src.ui.main_window - WARNING - Username or password is empty
+2025-07-07 14:47:57,112 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 14:47:57,112 - src.ui.main_window - INFO - Username: 'shubham', Password length: 8
+2025-07-07 14:47:57,116 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 14:47:57,117 - src.ui.main_window - INFO - Login thread started for user: shubham
+2025-07-07 14:47:57,124 - src.api_client - ERROR - API request failed: 404 Client Error: Not Found for url: http://localhost:8000/api/v1/health
+2025-07-07 14:47:57,124 - src.app_controller - WARNING - API connection failed, attempting offline login
+2025-07-07 14:47:57,145 - src.auth - INFO - Credentials stored for user: shubham
+2025-07-07 14:47:57,159 - src.auth - INFO - User logged in: shubham
+2025-07-07 14:47:57,159 - src.ui.main_window - INFO - Login result: True
+2025-07-07 14:47:57,159 - src.ui.main_window - INFO - Login result handler called: success=True, error=None
+2025-07-07 14:47:57,159 - src.ui.main_window - INFO - Login successful, showing main page in 1 second
+2025-07-07 14:59:41,404 - src.app_controller - INFO - Application controller initialized
+2025-07-07 14:59:41,406 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10b1a8730>: Failed to establish a new connection: [Errno 61] Connection refused')': /api/v1/health
+2025-07-07 14:59:43,411 - urllib3.connectionpool - WARNING - Retrying (Retry(total=1, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10b1a84c0>: Failed to establish a new connection: [Errno 61] Connection refused')': /api/v1/health
+2025-07-07 14:59:47,414 - urllib3.connectionpool - WARNING - Retrying (Retry(total=0, connect=None, read=None, redirect=None, status=None)) after connection broken by 'NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10b1a82e0>: Failed to establish a new connection: [Errno 61] Connection refused')': /api/v1/health
+2025-07-07 14:59:47,415 - src.api_client - ERROR - API request failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/v1/health (Caused by NewConnectionError('<urllib3.connection.HTTPConnection object at 0x10b1a8100>: Failed to establish a new connection: [Errno 61] Connection refused'))
+2025-07-07 15:00:26,569 - src.app_controller - INFO - Shutting down application...
+2025-07-07 15:00:26,569 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 15:00:26,569 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 15:00:26,569 - src.app_controller - INFO - Background sync stopped
+2025-07-07 15:00:26,569 - src.app_controller - INFO - Background sync stopped
+2025-07-07 15:00:26,570 - src.auth - INFO - User logged out: shubham
+2025-07-07 15:00:26,570 - src.app_controller - INFO - User logged out successfully
+2025-07-07 15:00:26,570 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 15:00:26,570 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 15:00:26,570 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 15:18:40,494 - src.app_controller - INFO - Application controller initialized
+2025-07-07 15:18:40,652 - src.ui.main_window - ERROR - Error setting up stored credentials: cannot use geometry manager grid inside .!frame which already has slaves managed by pack
+2025-07-07 15:18:40,655 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 15:18:58,853 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 15:18:58,853 - src.ui.main_window - INFO - Username: 'shubham', Password length: 8
+2025-07-07 15:18:58,865 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 15:18:58,865 - src.ui.main_window - INFO - Login thread started for user: shubham
+2025-07-07 15:18:58,873 - src.api_client - ERROR - API request failed: 404 Client Error: Not Found for url: http://localhost:8000/api/v1/health
+2025-07-07 15:18:58,874 - src.app_controller - WARNING - API connection failed, attempting offline login
+2025-07-07 15:18:58,888 - src.auth - INFO - Credentials stored for user: shubham
+2025-07-07 15:18:58,890 - src.auth - INFO - User logged in: shubham
+2025-07-07 15:18:58,890 - src.ui.main_window - INFO - Login result: True
+2025-07-07 15:18:59,055 - src.ui.main_window - INFO - Login result handler called: success=True, error=None
+2025-07-07 15:18:59,055 - src.ui.main_window - INFO - Login successful, showing main page in 1 second
+2025-07-07 15:19:11,808 - src.api_client - ERROR - API request failed: 422 Client Error: Unprocessable Entity for url: http://localhost:8000/api/v1/time-tracking/start
+2025-07-07 15:19:11,808 - src.app_controller - ERROR - Error starting tracking: API request failed: 422 Client Error: Unprocessable Entity for url: http://localhost:8000/api/v1/time-tracking/start
+2025-07-07 15:19:37,792 - src.app_controller - INFO - Background sync stopped
+2025-07-07 15:19:37,792 - src.auth - INFO - User logged out: shubham
+2025-07-07 15:19:37,792 - src.app_controller - INFO - User logged out successfully
+2025-07-07 15:19:37,798 - src.ui.main_window - ERROR - Error setting up stored credentials: cannot use geometry manager grid inside .!frame3 which already has slaves managed by pack
+2025-07-07 15:19:37,799 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 15:19:44,934 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 15:19:44,935 - src.ui.main_window - INFO - Username: 'happy', Password length: 5
+2025-07-07 15:19:44,937 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 15:19:44,937 - src.ui.main_window - INFO - Login thread started for user: happy
+2025-07-07 15:19:44,940 - src.api_client - ERROR - API request failed: 404 Client Error: Not Found for url: http://localhost:8000/api/v1/health
+2025-07-07 15:19:44,941 - src.app_controller - WARNING - API connection failed, attempting offline login
+2025-07-07 15:19:44,954 - src.auth - INFO - Credentials stored for user: happy
+2025-07-07 15:19:44,983 - src.auth - INFO - User logged in: happy
+2025-07-07 15:19:44,983 - src.ui.main_window - INFO - Login result: True
+2025-07-07 15:19:44,983 - src.ui.main_window - INFO - Login result handler called: success=True, error=None
+2025-07-07 15:19:44,984 - src.ui.main_window - INFO - Login successful, showing main page in 1 second
+2025-07-07 15:32:01,883 - src.app_controller - INFO - Background sync stopped
+2025-07-07 15:32:01,884 - src.auth - INFO - User logged out: happy
+2025-07-07 15:32:01,884 - src.app_controller - INFO - User logged out successfully
+2025-07-07 15:32:01,891 - src.ui.main_window - ERROR - Error setting up stored credentials: cannot use geometry manager grid inside .!frame5 which already has slaves managed by pack
+2025-07-07 15:32:01,891 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 15:32:04,918 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 15:32:04,919 - src.ui.main_window - INFO - Username: 'fgfg', Password length: 5
+2025-07-07 15:32:04,922 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 15:32:04,923 - src.ui.main_window - INFO - Login thread started for user: fgfg
+2025-07-07 15:32:04,928 - src.api_client - ERROR - API request failed: 404 Client Error: Not Found for url: http://localhost:8000/api/v1/health
+2025-07-07 15:32:04,928 - src.app_controller - WARNING - API connection failed, attempting offline login
+2025-07-07 15:32:04,944 - src.auth - INFO - Credentials stored for user: fgfg
+2025-07-07 15:32:04,960 - src.auth - INFO - User logged in: fgfg
+2025-07-07 15:32:04,960 - src.ui.main_window - INFO - Login result: True
+2025-07-07 15:32:04,966 - src.ui.main_window - INFO - Login result handler called: success=True, error=None
+2025-07-07 15:32:04,966 - src.ui.main_window - INFO - Login successful, showing main page in 1 second
+2025-07-07 15:42:45,982 - src.app_controller - INFO - Application controller initialized
+2025-07-07 15:42:46,119 - src.ui.main_window - ERROR - Error setting up stored credentials: cannot use geometry manager grid inside .!frame which already has slaves managed by pack
+2025-07-07 15:42:46,122 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 15:42:53,896 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 15:42:53,896 - src.ui.main_window - INFO - Username: 'asdfd', Password length: 7
+2025-07-07 15:42:53,904 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 15:42:53,905 - src.ui.main_window - INFO - Login thread started for user: asdfd
+2025-07-07 15:42:53,913 - src.api_client - ERROR - API request failed: 404 Client Error: Not Found for url: http://localhost:8000/api/v1/health
+2025-07-07 15:42:53,913 - src.app_controller - WARNING - API connection failed, attempting offline login
+2025-07-07 15:42:53,930 - src.auth - INFO - Credentials stored for user: asdfd
+2025-07-07 15:42:53,943 - src.auth - INFO - User logged in: asdfd
+2025-07-07 15:42:53,943 - src.ui.main_window - INFO - Login result: True
+2025-07-07 15:42:53,987 - src.ui.main_window - INFO - Login result handler called: success=True, error=None
+2025-07-07 15:42:53,988 - src.ui.main_window - INFO - Login successful, showing main page in 1 second
+2025-07-07 15:43:01,018 - src.api_client - ERROR - API request failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/v1/projects/?page=1&limit=50 (Caused by ResponseError('too many 500 error responses'))
+2025-07-07 15:43:01,018 - src.app_controller - ERROR - Error getting projects: API request failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/v1/projects/?page=1&limit=50 (Caused by ResponseError('too many 500 error responses'))
+2025-07-07 15:43:31,786 - src.app_controller - INFO - Background sync stopped
+2025-07-07 15:43:31,786 - src.auth - INFO - User logged out: asdfd
+2025-07-07 15:43:31,786 - src.app_controller - INFO - User logged out successfully
+2025-07-07 15:43:31,800 - src.ui.main_window - ERROR - Error setting up stored credentials: cannot use geometry manager grid inside .!frame3 which already has slaves managed by pack
+2025-07-07 15:43:31,801 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 15:43:43,544 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 15:43:43,545 - src.ui.main_window - INFO - Username: 'dfd', Password length: 3
+2025-07-07 15:43:43,548 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 15:43:43,548 - src.ui.main_window - INFO - Login thread started for user: dfd
+2025-07-07 15:43:43,551 - src.api_client - ERROR - API request failed: 404 Client Error: Not Found for url: http://localhost:8000/api/v1/health
+2025-07-07 15:43:43,551 - src.app_controller - WARNING - API connection failed, attempting offline login
+2025-07-07 15:43:43,561 - src.auth - INFO - Credentials stored for user: dfd
+2025-07-07 15:43:43,577 - src.auth - INFO - User logged in: dfd
+2025-07-07 15:43:43,577 - src.ui.main_window - INFO - Login result: True
+2025-07-07 15:43:43,577 - src.ui.main_window - INFO - Login result handler called: success=True, error=None
+2025-07-07 15:43:43,577 - src.ui.main_window - INFO - Login successful, showing main page in 1 second
+2025-07-07 15:43:50,609 - src.api_client - ERROR - API request failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/v1/projects/?page=1&limit=50 (Caused by ResponseError('too many 500 error responses'))
+2025-07-07 15:43:50,609 - src.app_controller - ERROR - Error getting projects: API request failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/v1/projects/?page=1&limit=50 (Caused by ResponseError('too many 500 error responses'))
+2025-07-07 15:50:32,582 - src.app_controller - INFO - Shutting down application...
+2025-07-07 15:50:32,582 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 15:50:32,583 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 15:50:32,583 - src.app_controller - INFO - Background sync stopped
+2025-07-07 15:50:32,583 - src.app_controller - INFO - Background sync stopped
+2025-07-07 15:50:32,583 - src.auth - INFO - User logged out: dfd
+2025-07-07 15:50:32,583 - src.app_controller - INFO - User logged out successfully
+2025-07-07 15:50:32,583 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 15:50:32,583 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 15:50:32,583 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 15:50:37,775 - src.app_controller - INFO - Application controller initialized
+2025-07-07 15:50:37,910 - src.ui.main_window - ERROR - Error setting up stored credentials: cannot use geometry manager grid inside .!frame which already has slaves managed by pack
+2025-07-07 15:50:37,912 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 15:50:47,806 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 15:50:47,806 - src.ui.main_window - INFO - Username: 'dfdfd', Password length: 3
+2025-07-07 15:50:47,809 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 15:50:47,809 - src.ui.main_window - INFO - Login thread started for user: dfdfd
+2025-07-07 15:50:47,815 - src.api_client - ERROR - API request failed: 422 Client Error: Unprocessable Entity for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 15:50:47,815 - src.app_controller - ERROR - Login failed: API request failed: 422 Client Error: Unprocessable Entity for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 15:50:47,829 - src.auth - INFO - Credentials stored for user: dfdfd
+2025-07-07 15:50:47,842 - src.auth - INFO - User logged in: dfdfd
+2025-07-07 15:50:47,842 - src.ui.main_window - INFO - Login result: True
+2025-07-07 15:50:47,850 - src.ui.main_window - INFO - Login result handler called: success=True, error=None
+2025-07-07 15:50:47,850 - src.ui.main_window - INFO - Login successful, showing main page in 1 second
+2025-07-07 15:50:54,880 - src.api_client - ERROR - API request failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/v1/projects/?page=1&per_page=50 (Caused by ResponseError('too many 500 error responses'))
+2025-07-07 15:50:54,880 - src.app_controller - ERROR - Error getting projects: API request failed: HTTPConnectionPool(host='localhost', port=8000): Max retries exceeded with url: /api/v1/projects/?page=1&per_page=50 (Caused by ResponseError('too many 500 error responses'))
+2025-07-07 15:54:50,636 - src.app_controller - INFO - Application controller initialized
+2025-07-07 15:55:17,106 - src.app_controller - INFO - Shutting down application...
+2025-07-07 15:55:17,106 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 15:55:17,106 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 15:55:17,106 - src.app_controller - INFO - Background sync stopped
+2025-07-07 15:55:17,106 - src.app_controller - INFO - Background sync stopped
+2025-07-07 15:55:17,106 - src.auth - INFO - User logged out: dfdfd
+2025-07-07 15:55:17,106 - src.app_controller - INFO - User logged out successfully
+2025-07-07 15:55:17,106 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 15:55:17,106 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 15:55:17,106 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 15:58:57,463 - src.app_controller - INFO - Application controller initialized
+2025-07-07 15:58:57,575 - src.ui.main_window - ERROR - Error setting up stored credentials: cannot use geometry manager grid inside .!frame which already has slaves managed by pack
+2025-07-07 15:58:57,578 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 15:59:10,460 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 15:59:10,461 - src.ui.main_window - INFO - Username: 'dfd', Password length: 9
+2025-07-07 15:59:10,469 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 15:59:10,469 - src.ui.main_window - INFO - Login thread started for user: dfd
+2025-07-07 15:59:10,475 - src.app_controller - INFO - Authenticating user: dfd
+2025-07-07 15:59:10,478 - src.api_client - ERROR - API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 15:59:10,478 - src.app_controller - ERROR - API authentication failed: API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 15:59:10,478 - src.ui.main_window - INFO - Login result: False
+2025-07-07 15:59:10,478 - src.ui.main_window - INFO - Login result handler called: success=False, error=Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 15:59:10,478 - src.ui.main_window - ERROR - Login failed: Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 15:59:32,812 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 15:59:32,813 - src.ui.main_window - INFO - Username: 'shubham', Password length: 8
+2025-07-07 15:59:32,823 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 15:59:32,823 - src.ui.main_window - INFO - Login thread started for user: shubham
+2025-07-07 15:59:32,827 - src.app_controller - INFO - Authenticating user: shubham
+2025-07-07 15:59:32,830 - src.api_client - ERROR - API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 15:59:32,830 - src.app_controller - ERROR - API authentication failed: API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 15:59:32,830 - src.ui.main_window - INFO - Login result: False
+2025-07-07 15:59:32,830 - src.ui.main_window - INFO - Login result handler called: success=False, error=Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 15:59:32,831 - src.ui.main_window - ERROR - Login failed: Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 16:00:02,030 - src.app_controller - INFO - Shutting down application...
+2025-07-07 16:00:02,030 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 16:00:02,030 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 16:00:02,031 - src.app_controller - INFO - Background sync stopped
+2025-07-07 16:00:02,031 - src.app_controller - INFO - Background sync stopped
+2025-07-07 16:00:02,031 - src.app_controller - INFO - User logged out successfully
+2025-07-07 16:00:02,031 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 16:00:02,031 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 16:00:02,031 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 16:08:13,172 - src.app_controller - INFO - Application controller initialized
+2025-07-07 16:08:13,308 - src.ui.main_window - ERROR - Error setting up stored credentials: cannot use geometry manager grid inside .!frame which already has slaves managed by pack
+2025-07-07 16:08:13,310 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 16:08:28,318 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 16:08:28,320 - src.ui.main_window - INFO - Username: 'shubham', Password length: 12
+2025-07-07 16:08:28,326 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 16:08:28,327 - src.ui.main_window - INFO - Login thread started for user: shubham
+2025-07-07 16:08:28,337 - src.app_controller - INFO - Authenticating user: shubham
+2025-07-07 16:08:28,530 - src.api_client - ERROR - API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:08:28,530 - src.app_controller - ERROR - API authentication failed: API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:08:28,530 - src.ui.main_window - INFO - Login result: False
+2025-07-07 16:08:28,530 - src.ui.main_window - INFO - Login result handler called: success=False, error=Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 16:08:28,530 - src.ui.main_window - ERROR - Login failed: Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 16:08:47,550 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 16:08:47,551 - src.ui.main_window - INFO - Username: 'shubham', Password length: 12
+2025-07-07 16:08:47,572 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 16:08:47,573 - src.ui.main_window - INFO - Login thread started for user: shubham
+2025-07-07 16:08:47,577 - src.app_controller - INFO - Authenticating user: shubham
+2025-07-07 16:08:47,767 - src.api_client - ERROR - API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:08:47,767 - src.app_controller - ERROR - API authentication failed: API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:08:47,767 - src.ui.main_window - INFO - Login result: False
+2025-07-07 16:08:47,767 - src.ui.main_window - INFO - Login result handler called: success=False, error=Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 16:08:47,767 - src.ui.main_window - ERROR - Login failed: Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 16:10:03,987 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 16:10:03,988 - src.ui.main_window - INFO - Username: 'shubham', Password length: 12
+2025-07-07 16:10:04,008 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 16:10:04,009 - src.ui.main_window - INFO - Login thread started for user: shubham
+2025-07-07 16:10:04,013 - src.app_controller - INFO - Authenticating user: shubham
+2025-07-07 16:10:04,201 - src.api_client - ERROR - API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:10:04,201 - src.app_controller - ERROR - API authentication failed: API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:10:04,201 - src.ui.main_window - INFO - Login result: False
+2025-07-07 16:10:04,253 - src.ui.main_window - INFO - Login result handler called: success=False, error=Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 16:10:04,253 - src.ui.main_window - ERROR - Login failed: Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 16:10:07,872 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 16:10:07,872 - src.ui.main_window - INFO - Username: 'shubham', Password length: 12
+2025-07-07 16:10:07,880 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 16:10:07,881 - src.ui.main_window - INFO - Login thread started for user: shubham
+2025-07-07 16:10:07,883 - src.app_controller - INFO - Authenticating user: shubham
+2025-07-07 16:10:08,075 - src.api_client - ERROR - API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:10:08,075 - src.app_controller - ERROR - API authentication failed: API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:10:08,075 - src.ui.main_window - INFO - Login result: False
+2025-07-07 16:10:08,076 - src.ui.main_window - INFO - Login result handler called: success=False, error=Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 16:10:08,076 - src.ui.main_window - ERROR - Login failed: Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 16:10:30,029 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 16:10:30,030 - src.ui.main_window - INFO - Username: 'shubham', Password length: 197
+2025-07-07 16:10:30,047 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 16:10:30,048 - src.ui.main_window - INFO - Login thread started for user: shubham
+2025-07-07 16:10:30,053 - src.app_controller - INFO - Authenticating user: shubham
+2025-07-07 16:10:30,245 - src.api_client - ERROR - API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:10:30,245 - src.app_controller - ERROR - API authentication failed: API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:10:30,245 - src.ui.main_window - INFO - Login result: False
+2025-07-07 16:10:30,245 - src.ui.main_window - INFO - Login result handler called: success=False, error=Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 16:10:30,245 - src.ui.main_window - ERROR - Login failed: Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 16:15:07,153 - src.app_controller - INFO - Application controller initialized
+2025-07-07 16:15:08,429 - src.auth - ERROR - Failed to get stored usernames: Can't get password from keychain: (-128, 'Keychain Access Denied')
+2025-07-07 16:15:08,448 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 16:17:26,218 - src.app_controller - INFO - Shutting down application...
+2025-07-07 16:17:26,220 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 16:17:26,220 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 16:17:26,220 - src.app_controller - INFO - Background sync stopped
+2025-07-07 16:17:26,220 - src.app_controller - INFO - Background sync stopped
+2025-07-07 16:17:26,220 - src.app_controller - INFO - User logged out successfully
+2025-07-07 16:17:26,220 - src.system_monitor - INFO - Monitoring session reset
+2025-07-07 16:17:26,220 - src.app_controller - INFO - Data cleanup completed
+2025-07-07 16:17:26,220 - src.app_controller - INFO - Application shutdown completed
+2025-07-07 16:17:42,777 - src.app_controller - INFO - Application controller initialized
+2025-07-07 16:17:50,144 - src.ui.main_window - ERROR - Error setting up stored credentials: cannot use geometry manager grid inside .!frame which already has slaves managed by pack
+2025-07-07 16:17:50,146 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 16:18:08,974 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 16:18:08,975 - src.ui.main_window - INFO - Username: 'shubham', Password length: 12
+2025-07-07 16:18:08,982 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 16:18:08,983 - src.ui.main_window - INFO - Login thread started for user: shubham
+2025-07-07 16:18:08,993 - src.app_controller - INFO - Authenticating user: shubham
+2025-07-07 16:18:08,993 - src.api_client - INFO - Sending authentication request to: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:18:08,993 - src.api_client - INFO - Request data: {'username': 'shubham', 'password': '[REDACTED]'}
+2025-07-07 16:18:08,993 - src.api_client - INFO - Password length: 12
+2025-07-07 16:18:09,189 - src.api_client - INFO - Authentication successful - token received
+2025-07-07 16:18:09,189 - src.app_controller - INFO - Authentication successful, getting employee data
+2025-07-07 16:18:09,211 - src.auth - INFO - Credentials stored for user: shubham
+2025-07-07 16:18:17,334 - src.auth - INFO - User logged in: shubham
+2025-07-07 16:18:17,335 - src.app_controller - INFO - Background sync started
+2025-07-07 16:18:17,335 - src.app_controller - INFO - User logged in successfully: shubham
+2025-07-07 16:18:17,335 - src.ui.main_window - INFO - Login result: True
+2025-07-07 16:18:17,341 - src.ui.main_window - INFO - Login result handler called: success=True, error=None
+2025-07-07 16:18:17,342 - src.ui.main_window - INFO - Login successful, showing main page in 1 second
+2025-07-07 16:19:00,776 - src.api_client - ERROR - API request failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/v1/time-tracking/start?employee_id=e5f42988-2dc6-48dc-9287-174926d2cc46
+2025-07-07 16:19:00,776 - src.api_client - ERROR - Response status: 400
+2025-07-07 16:19:00,777 - src.api_client - ERROR - Response headers: {'date': 'Mon, 07 Jul 2025 10:48:59 GMT', 'server': 'uvicorn', 'content-length': '54', 'content-type': 'application/json'}
+2025-07-07 16:19:00,777 - src.api_client - ERROR - Response body: {"detail":"Employee already has an active time entry"}
+2025-07-07 16:19:00,777 - src.api_client - ERROR - Could not parse error response: API Error: Employee already has an active time entry
+2025-07-07 16:19:00,777 - src.app_controller - ERROR - Error starting tracking: API request failed: 400 Client Error: Bad Request for url: http://localhost:8000/api/v1/time-tracking/start?employee_id=e5f42988-2dc6-48dc-9287-174926d2cc46
+2025-07-07 16:24:41,759 - src.app_controller - INFO - Application controller initialized
+2025-07-07 16:24:48,823 - src.ui.main_window - ERROR - Error setting up stored credentials: cannot use geometry manager grid inside .!frame which already has slaves managed by pack
+2025-07-07 16:24:48,823 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 16:25:07,208 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 16:25:07,208 - src.ui.main_window - INFO - Username: 'shubham', Password length: 13
+2025-07-07 16:25:07,213 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 16:25:07,213 - src.ui.main_window - INFO - Login thread started for user: shubham
+2025-07-07 16:25:07,220 - src.app_controller - INFO - Authenticating user: shubham
+2025-07-07 16:25:07,220 - src.api_client - INFO - Sending authentication request to: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:25:07,220 - src.api_client - INFO - Request data: {'username': 'shubham', 'password': '[REDACTED]'}
+2025-07-07 16:25:07,220 - src.api_client - INFO - Password length: 13
+2025-07-07 16:25:07,406 - src.api_client - ERROR - API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:25:07,406 - src.api_client - ERROR - Response status: 401
+2025-07-07 16:25:07,406 - src.api_client - ERROR - Response headers: {'date': 'Mon, 07 Jul 2025 10:55:06 GMT', 'server': 'uvicorn', 'www-authenticate': 'Bearer', 'content-length': '43', 'content-type': 'application/json'}
+2025-07-07 16:25:07,406 - src.api_client - ERROR - Response body: {"detail":"Incorrect username or password"}
+2025-07-07 16:25:07,406 - src.api_client - ERROR - Could not parse error response: API Error: Incorrect username or password
+2025-07-07 16:25:07,406 - src.app_controller - ERROR - API authentication failed: API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:25:07,406 - src.ui.main_window - INFO - Login result: False
+2025-07-07 16:25:07,406 - src.ui.main_window - INFO - Login result handler called: success=False, error=Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 16:25:07,406 - src.ui.main_window - ERROR - Login failed: Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 16:25:20,856 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 16:25:20,857 - src.ui.main_window - INFO - Username: 'shubham', Password length: 12
+2025-07-07 16:25:20,872 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 16:25:20,872 - src.ui.main_window - INFO - Login thread started for user: shubham
+2025-07-07 16:25:20,877 - src.app_controller - INFO - Authenticating user: shubham
+2025-07-07 16:25:20,877 - src.api_client - INFO - Sending authentication request to: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:25:20,877 - src.api_client - INFO - Request data: {'username': 'shubham', 'password': '[REDACTED]'}
+2025-07-07 16:25:20,877 - src.api_client - INFO - Password length: 12
+2025-07-07 16:25:21,070 - src.api_client - INFO - Authentication successful - token received
+2025-07-07 16:25:21,070 - src.app_controller - INFO - Authentication successful, getting employee data
+2025-07-07 16:25:21,091 - src.auth - INFO - Credentials stored for user: shubham
+2025-07-07 16:25:38,241 - src.auth - INFO - User logged in: shubham
+2025-07-07 16:25:38,242 - src.app_controller - INFO - Background sync started
+2025-07-07 16:25:38,242 - src.app_controller - INFO - User logged in successfully: shubham
+2025-07-07 16:25:38,242 - src.ui.main_window - INFO - Login result: True
+2025-07-07 16:25:38,246 - src.ui.main_window - INFO - Login result handler called: success=True, error=None
+2025-07-07 16:25:38,246 - src.ui.main_window - INFO - Login successful, showing main page in 1 second
+2025-07-07 16:25:41,885 - src.app_controller - INFO - Start tracking API response: {'employee_id': 'e5f42988-2dc6-48dc-9287-174926d2cc46', 'project_id': '9728cdbe-710b-4d18-a12f-ddbd18331f4d', 'description': None, 'id': '191eed8d-de20-4ba2-9c90-50ce369683fe', 'start_time': '2025-07-07T10:55:41.880662', 'end_time': None, 'duration_seconds': None, 'duration_minutes': None, 'duration_hours': None, 'is_active': True, 'created_at': '2025-07-07T10:55:41', 'updated_at': None}
+2025-07-07 16:25:41,886 - src.system_monitor - INFO - System monitoring started
+2025-07-07 16:25:41,887 - src.screenshot_manager - INFO - Screenshot capture started for time entry 191eed8d-de20-4ba2-9c90-50ce369683fe
+2025-07-07 16:25:41,887 - src.app_controller - INFO - Time tracking started for project 9728cdbe-710b-4d18-a12f-ddbd18331f4d
+2025-07-07 16:25:42,404 - src.screenshot_manager - ERROR - Failed to capture screenshot: cannot write mode RGBA as JPEG
+2025-07-07 16:26:06,734 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 16:26:11,736 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 16:26:12,800 - src.app_controller - INFO - Time tracking stopped successfully
+2025-07-07 16:26:22,610 - src.app_controller - INFO - Start tracking API response: {'employee_id': 'e5f42988-2dc6-48dc-9287-174926d2cc46', 'project_id': '9728cdbe-710b-4d18-a12f-ddbd18331f4d', 'description': None, 'id': '24d4ffa5-bb32-4e15-a0de-b529bcc875af', 'start_time': '2025-07-07T10:56:22.605222', 'end_time': None, 'duration_seconds': None, 'duration_minutes': None, 'duration_hours': None, 'is_active': True, 'created_at': '2025-07-07T10:56:22', 'updated_at': None}
+2025-07-07 16:26:22,610 - src.system_monitor - INFO - System monitoring started
+2025-07-07 16:26:22,611 - src.screenshot_manager - INFO - Screenshot capture started for time entry 24d4ffa5-bb32-4e15-a0de-b529bcc875af
+2025-07-07 16:26:22,611 - src.app_controller - INFO - Time tracking started for project 9728cdbe-710b-4d18-a12f-ddbd18331f4d
+2025-07-07 16:26:23,024 - src.screenshot_manager - ERROR - Failed to capture screenshot: cannot write mode RGBA as JPEG
+2025-07-07 16:26:42,818 - src.screenshot_manager - ERROR - Failed to capture screenshot: cannot write mode RGBA as JPEG
+2025-07-07 16:27:01,169 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 16:27:06,170 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 16:27:07,186 - src.app_controller - INFO - Time tracking stopped successfully
+2025-07-07 16:28:07,530 - src.app_controller - INFO - Start tracking API response: {'employee_id': 'e5f42988-2dc6-48dc-9287-174926d2cc46', 'project_id': '5d3b1b59-51d6-4596-8d4a-e841fb734169', 'description': None, 'id': 'a5c6a538-5c12-45a4-9876-87ebe64eab10', 'start_time': '2025-07-07T10:58:07.528059', 'end_time': None, 'duration_seconds': None, 'duration_minutes': None, 'duration_hours': None, 'is_active': True, 'created_at': '2025-07-07T10:58:07', 'updated_at': None}
+2025-07-07 16:28:07,531 - src.system_monitor - INFO - System monitoring started
+2025-07-07 16:28:07,531 - src.screenshot_manager - INFO - Screenshot capture started for time entry a5c6a538-5c12-45a4-9876-87ebe64eab10
+2025-07-07 16:28:07,531 - src.app_controller - INFO - Time tracking started for project 5d3b1b59-51d6-4596-8d4a-e841fb734169
+2025-07-07 16:28:07,952 - src.screenshot_manager - ERROR - Failed to capture screenshot: cannot write mode RGBA as JPEG
+2025-07-07 16:28:28,051 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 16:28:33,053 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 16:28:34,069 - src.app_controller - INFO - Time tracking stopped successfully
+2025-07-07 16:57:57,746 - src.app_controller - INFO - Application controller initialized
+2025-07-07 16:58:03,155 - src.ui.main_window - ERROR - Error setting up stored credentials: cannot use geometry manager grid inside .!frame which already has slaves managed by pack
+2025-07-07 16:58:03,157 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 16:58:24,919 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 16:58:24,919 - src.ui.main_window - INFO - Username: 'shubham', Password length: 12
+2025-07-07 16:58:24,928 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 16:58:24,929 - src.ui.main_window - INFO - Login thread started for user: shubham
+2025-07-07 16:58:24,941 - src.app_controller - INFO - Authenticating user: shubham
+2025-07-07 16:58:24,942 - src.api_client - INFO - Sending authentication request to: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:58:24,942 - src.api_client - INFO - Request data: {'username': 'shubham', 'password': '[REDACTED]'}
+2025-07-07 16:58:24,942 - src.api_client - INFO - Password length: 12
+2025-07-07 16:58:24,966 - src.api_client - ERROR - API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:58:24,967 - src.api_client - ERROR - Response status: 401
+2025-07-07 16:58:24,967 - src.api_client - ERROR - Response headers: {'date': 'Mon, 07 Jul 2025 11:28:23 GMT', 'server': 'uvicorn', 'www-authenticate': 'Bearer', 'content-length': '43', 'content-type': 'application/json'}
+2025-07-07 16:58:24,967 - src.api_client - ERROR - Response body: {"detail":"Incorrect username or password"}
+2025-07-07 16:58:24,967 - src.api_client - ERROR - Could not parse error response: API Error: Incorrect username or password
+2025-07-07 16:58:24,967 - src.app_controller - ERROR - API authentication failed: API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:58:24,967 - src.ui.main_window - INFO - Login result: False
+2025-07-07 16:58:24,967 - src.ui.main_window - INFO - Login result handler called: success=False, error=Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 16:58:24,967 - src.ui.main_window - ERROR - Login failed: Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 16:58:36,567 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 16:58:36,569 - src.ui.main_window - INFO - Username: 'shubham', Password length: 12
+2025-07-07 16:58:36,591 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 16:58:36,592 - src.ui.main_window - INFO - Login thread started for user: shubham
+2025-07-07 16:58:36,595 - src.app_controller - INFO - Authenticating user: shubham
+2025-07-07 16:58:36,595 - src.api_client - INFO - Sending authentication request to: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:58:36,595 - src.api_client - INFO - Request data: {'username': 'shubham', 'password': '[REDACTED]'}
+2025-07-07 16:58:36,595 - src.api_client - INFO - Password length: 12
+2025-07-07 16:58:36,599 - src.api_client - ERROR - API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:58:36,599 - src.api_client - ERROR - Response status: 401
+2025-07-07 16:58:36,599 - src.api_client - ERROR - Response headers: {'date': 'Mon, 07 Jul 2025 11:28:36 GMT', 'server': 'uvicorn', 'www-authenticate': 'Bearer', 'content-length': '43', 'content-type': 'application/json'}
+2025-07-07 16:58:36,599 - src.api_client - ERROR - Response body: {"detail":"Incorrect username or password"}
+2025-07-07 16:58:36,599 - src.api_client - ERROR - Could not parse error response: API Error: Incorrect username or password
+2025-07-07 16:58:36,599 - src.app_controller - ERROR - API authentication failed: API request failed: 401 Client Error: Unauthorized for url: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:58:36,599 - src.ui.main_window - INFO - Login result: False
+2025-07-07 16:58:36,600 - src.ui.main_window - INFO - Login result handler called: success=False, error=Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 16:58:36,600 - src.ui.main_window - ERROR - Login failed: Login failed. Please check your credentials and ensure your password is at least 6 characters.
+2025-07-07 16:59:48,130 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 16:59:48,130 - src.ui.main_window - INFO - Username: 'shubham', Password length: 12
+2025-07-07 16:59:48,149 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 16:59:48,149 - src.ui.main_window - INFO - Login thread started for user: shubham
+2025-07-07 16:59:48,154 - src.app_controller - INFO - Authenticating user: shubham
+2025-07-07 16:59:48,154 - src.api_client - INFO - Sending authentication request to: http://localhost:8000/api/v1/auth/login
+2025-07-07 16:59:48,154 - src.api_client - INFO - Request data: {'username': 'shubham', 'password': '[REDACTED]'}
+2025-07-07 16:59:48,154 - src.api_client - INFO - Password length: 12
+2025-07-07 16:59:48,345 - src.api_client - INFO - Authentication successful - token received
+2025-07-07 16:59:48,345 - src.app_controller - INFO - Authentication successful, getting employee data
+2025-07-07 16:59:48,367 - src.auth - INFO - Credentials stored for user: shubham
+2025-07-07 16:59:48,369 - src.auth - INFO - User logged in: shubham
+2025-07-07 16:59:48,369 - src.app_controller - INFO - Background sync started
+2025-07-07 16:59:48,369 - src.app_controller - INFO - User logged in successfully: shubham
+2025-07-07 16:59:48,369 - src.ui.main_window - INFO - Login result: True
+2025-07-07 16:59:48,473 - src.ui.main_window - INFO - Login result handler called: success=True, error=None
+2025-07-07 16:59:48,473 - src.ui.main_window - INFO - Login successful, showing main page in 1 second
+2025-07-07 16:59:53,096 - src.app_controller - INFO - Start tracking API response: {'employee_id': 'a021ee24-e21a-4ea5-80b9-dd272efffc2c', 'project_id': '9728cdbe-710b-4d18-a12f-ddbd18331f4d', 'description': None, 'id': 'de858942-9273-4b42-a63e-bb0493348ec4', 'start_time': '2025-07-07T11:29:53.089891', 'end_time': None, 'duration_seconds': None, 'duration_minutes': None, 'duration_hours': None, 'app_usage_data': None, 'is_active': True, 'created_at': '2025-07-07T11:29:53', 'updated_at': None}
+2025-07-07 16:59:53,097 - src.system_monitor - INFO - System monitoring started
+2025-07-07 16:59:53,098 - src.screenshot_manager - INFO - Screenshot capture started for time entry de858942-9273-4b42-a63e-bb0493348ec4
+2025-07-07 16:59:53,098 - src.app_controller - INFO - Time tracking started for project 9728cdbe-710b-4d18-a12f-ddbd18331f4d
+2025-07-07 16:59:53,511 - src.screenshot_manager - ERROR - Failed to capture screenshot: cannot write mode RGBA as JPEG
+2025-07-07 17:00:25,842 - src.app_controller - INFO - App usage data to send: []
+2025-07-07 17:00:30,845 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 17:00:35,846 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 17:00:36,866 - src.app_controller - INFO - Time tracking stopped successfully
+2025-07-07 17:31:48,498 - src.app_controller - INFO - Background sync stopped
+2025-07-07 17:31:48,500 - src.auth - INFO - User logged out: shubham
+2025-07-07 17:31:48,500 - src.app_controller - INFO - User logged out successfully
+2025-07-07 17:31:48,516 - src.ui.main_window - ERROR - Error setting up stored credentials: cannot use geometry manager grid inside .!frame3 which already has slaves managed by pack
+2025-07-07 17:31:48,517 - src.ui.main_window - INFO - Login page created with simplified layout
+2025-07-07 17:32:08,032 - src.ui.main_window - INFO - Login button clicked!
+2025-07-07 17:32:08,032 - src.ui.main_window - INFO - Username: 'vikas', Password length: 11
+2025-07-07 17:32:08,039 - src.ui.main_window - INFO - Starting login thread...
+2025-07-07 17:32:08,039 - src.ui.main_window - INFO - Login thread started for user: vikas
+2025-07-07 17:32:08,044 - src.app_controller - INFO - Authenticating user: vikas
+2025-07-07 17:32:08,044 - src.api_client - INFO - Sending authentication request to: http://localhost:8000/api/v1/auth/login
+2025-07-07 17:32:08,044 - src.api_client - INFO - Request data: {'username': 'vikas', 'password': '[REDACTED]'}
+2025-07-07 17:32:08,044 - src.api_client - INFO - Password length: 11
+2025-07-07 17:32:08,233 - src.api_client - INFO - Authentication successful - token received
+2025-07-07 17:32:08,233 - src.app_controller - INFO - Authentication successful, getting employee data
+2025-07-07 17:32:08,250 - src.auth - INFO - Credentials stored for user: vikas
+2025-07-07 17:32:08,261 - src.auth - INFO - User logged in: vikas
+2025-07-07 17:32:08,261 - src.app_controller - INFO - Background sync started
+2025-07-07 17:32:08,261 - src.app_controller - INFO - User logged in successfully: vikas
+2025-07-07 17:32:08,261 - src.ui.main_window - INFO - Login result: True
+2025-07-07 17:32:08,441 - src.ui.main_window - INFO - Login result handler called: success=True, error=None
+2025-07-07 17:32:08,442 - src.ui.main_window - INFO - Login successful, showing main page in 1 second
+2025-07-07 17:32:14,633 - src.app_controller - INFO - Start tracking API response: {'employee_id': '0000656a-cf97-47a5-ad28-e2fa2ea2dead', 'project_id': '9728cdbe-710b-4d18-a12f-ddbd18331f4d', 'description': None, 'id': '55422810-5626-467c-a9ac-386da58443e8', 'start_time': '2025-07-07T12:02:14.626453', 'end_time': None, 'duration_seconds': None, 'duration_minutes': None, 'duration_hours': None, 'app_usage_data': None, 'is_active': True, 'created_at': '2025-07-07T12:02:14', 'updated_at': None}
+2025-07-07 17:32:14,633 - src.system_monitor - INFO - System monitoring started
+2025-07-07 17:32:14,633 - src.screenshot_manager - INFO - Screenshot capture started for time entry 55422810-5626-467c-a9ac-386da58443e8
+2025-07-07 17:32:14,634 - src.app_controller - INFO - Time tracking started for project 9728cdbe-710b-4d18-a12f-ddbd18331f4d
+2025-07-07 17:32:15,051 - src.screenshot_manager - ERROR - Failed to capture screenshot: cannot write mode RGBA as JPEG
+2025-07-07 17:33:02,785 - src.app_controller - INFO - App usage data to send: ['Python: 32.5m']
+2025-07-07 17:33:05,956 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 17:33:10,957 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 17:33:11,981 - src.app_controller - INFO - Time tracking stopped successfully
+2025-07-07 17:49:24,050 - src.app_controller - INFO - Start tracking API response: {'employee_id': '0000656a-cf97-47a5-ad28-e2fa2ea2dead', 'project_id': '9728cdbe-710b-4d18-a12f-ddbd18331f4d', 'description': None, 'id': 'cf7a3a87-53ab-427e-81b4-77b868ea705f', 'start_time': '2025-07-07T12:19:24.043609', 'end_time': None, 'duration_seconds': None, 'duration_minutes': None, 'duration_hours': None, 'app_usage_data': None, 'is_active': True, 'created_at': '2025-07-07T12:19:24', 'updated_at': None}
+2025-07-07 17:49:24,051 - src.system_monitor - INFO - System monitoring started
+2025-07-07 17:49:24,051 - src.screenshot_manager - INFO - Screenshot capture started for time entry cf7a3a87-53ab-427e-81b4-77b868ea705f
+2025-07-07 17:49:24,052 - src.app_controller - INFO - Time tracking started for project 9728cdbe-710b-4d18-a12f-ddbd18331f4d
+2025-07-07 17:49:24,458 - src.screenshot_manager - ERROR - Failed to capture screenshot: cannot write mode RGBA as JPEG
+2025-07-07 17:50:24,877 - src.screenshot_manager - ERROR - Failed to capture screenshot: cannot write mode RGBA as JPEG
+2025-07-07 17:50:27,977 - src.app_controller - INFO - App usage data to send: ['Python: 32.9m', 'Google Chrome: 16.6m']
+2025-07-07 17:50:32,978 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 17:50:37,980 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 17:50:38,999 - src.app_controller - INFO - Time tracking stopped successfully
+2025-07-07 18:02:44,811 - src.screenshot_manager - ERROR - Failed to capture screenshot: cannot write mode RGBA as JPEG
+2025-07-07 18:04:20,841 - src.app_controller - INFO - Start tracking API response: {'employee_id': '0000656a-cf97-47a5-ad28-e2fa2ea2dead', 'project_id': '9728cdbe-710b-4d18-a12f-ddbd18331f4d', 'description': None, 'id': '3a84a5d2-6122-4507-b51b-ea34a6d2cd8f', 'start_time': '2025-07-07T12:34:20.836585', 'end_time': None, 'duration_seconds': None, 'duration_minutes': None, 'duration_hours': None, 'app_usage_data': None, 'is_active': True, 'created_at': '2025-07-07T12:34:20', 'updated_at': None}
+2025-07-07 18:04:20,841 - src.system_monitor - INFO - System monitoring started
+2025-07-07 18:04:20,842 - src.screenshot_manager - INFO - Screenshot capture started for time entry 3a84a5d2-6122-4507-b51b-ea34a6d2cd8f
+2025-07-07 18:04:20,842 - src.app_controller - INFO - Time tracking started for project 9728cdbe-710b-4d18-a12f-ddbd18331f4d
+2025-07-07 18:04:21,263 - src.screenshot_manager - ERROR - Failed to capture screenshot: cannot write mode RGBA as JPEG
+2025-07-07 18:05:21,512 - src.screenshot_manager - ERROR - Failed to capture screenshot: cannot write mode RGBA as JPEG
+2025-07-07 18:05:56,579 - src.app_controller - INFO - App usage data to send: ['Python: 33.1m', 'Google Chrome: 16.8m']
+2025-07-07 18:06:01,581 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 18:06:06,582 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 18:06:07,596 - src.app_controller - INFO - Time tracking stopped successfully
+2025-07-07 18:09:24,166 - src.app_controller - INFO - Start tracking API response: {'employee_id': '0000656a-cf97-47a5-ad28-e2fa2ea2dead', 'project_id': '9728cdbe-710b-4d18-a12f-ddbd18331f4d', 'description': None, 'id': '73c63ef8-c0fb-4bba-a474-1ab0cba3976f', 'start_time': '2025-07-07T12:39:24.162003', 'end_time': None, 'duration_seconds': None, 'duration_minutes': None, 'duration_hours': None, 'app_usage_data': None, 'is_active': True, 'created_at': '2025-07-07T12:39:24', 'updated_at': None}
+2025-07-07 18:09:24,167 - src.system_monitor - INFO - System monitoring started
+2025-07-07 18:09:24,167 - src.screenshot_manager - INFO - Screenshot capture started for time entry 73c63ef8-c0fb-4bba-a474-1ab0cba3976f
+2025-07-07 18:09:24,167 - src.app_controller - INFO - Time tracking started for project 9728cdbe-710b-4d18-a12f-ddbd18331f4d
+2025-07-07 18:09:24,561 - src.screenshot_manager - ERROR - Failed to capture screenshot: cannot write mode RGBA as JPEG
+2025-07-07 18:10:24,836 - src.screenshot_manager - ERROR - Failed to capture screenshot: cannot write mode RGBA as JPEG
+2025-07-07 18:10:50,896 - src.app_controller - INFO - App usage data to send: ['Python: 33.6m', 'Google Chrome: 17.3m']
+2025-07-07 18:10:55,899 - src.system_monitor - INFO - System monitoring stopped
+2025-07-07 18:11:00,900 - src.screenshot_manager - INFO - Screenshot capture stopped
+2025-07-07 18:11:01,920 - src.app_controller - INFO - Time tracking stopped successfully
